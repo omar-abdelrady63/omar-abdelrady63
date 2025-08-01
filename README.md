@@ -28,12 +28,10 @@ I'm currently expanding my skills in backend technologies and frameworks, aiming
 
 ### 📂 My Projects
 
-Please have a look at my repositories to see what I'm working on!  
-[@omar-abdelrady63/EDUKATE](https://github.com/omar-abdelrady63/EDUKATE)  
-[@omar-abdelrady63/Restaurant](https://github.com/omar-abdelrady63/Restaurant)  
-[@omar-abdelrady63/CRUD_with_node](https://github.com/omar-abdelrady63/CRUD-operations-using-node.js)  
-[@omar-abdelrady63/Sliders](https://github.com/omar-abdelrady63/Sliders)  
-[@omar-abdelrady63/Feane](https://github.com/omar-abdelrady63/Feane)
+Please have a look at my repositories to see what I'm working on!   
+[@omar-abdelrady63/CRUD_with_node](https://github.com/omar-abdelrady63/CRUD-operations-using-node.js)  (Node js)
+[@omar-abdelrady63/Sliders](https://github.com/omar-abdelrady63/Sliders)  ( HTML , CSS , JS)
+[@omar-abdelrady63/Feane](https://github.com/omar-abdelrady63/Feane) (Bootstrap)
 
 ---
 
