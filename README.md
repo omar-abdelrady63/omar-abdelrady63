@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar!
 
-<!--
-**omar-abdelrady63/omar-abdelrady63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Web Designer & Developer
 
-Here are some ideas to get you started:
+I'm an intern who's passionate about learning and exploring new web technologies. I have experience with a variety of tools and frameworks, and I'm always excited to take on new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills
+
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Node.js, Express.js, PHP (Beginner), Laravel (Beginner)
+- **Databases:** MongoDB, MySQL (Beginner)
+
+---
+
+### 🌱 Currently Learning
+
+I'm currently expanding my skills in backend technologies and frameworks, aiming to become a full-stack web developer.
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn: omar-aly](https://www.linkedin.com/in/omar-aly-7271252b1/)
+
+---
+
+### 📂 My Projects
+
+Please have a look at my repositories to see what I'm working on!  
+[@omar-abdelrady63/EDUKATE](https://github.com/omar-abdelrady63/EDUKATE)  
+[@omar-abdelrady63/Restaurant](https://github.com/omar-abdelrady63/Restaurant)  
+[@omar-abdelrady63/CRUD_with_node](https://github.com/omar-abdelrady63/CRUD-operations-using-node.js)  
+[@omar-abdelrady63/Sliders](https://github.com/omar-abdelrady63/Sliders)  
+[@omar-abdelrady63/Feane](https://github.com/omar-abdelrady63/Feane)
+
+---
+
+> "I'm trying to learn as much as I can about web techs. I'm friendly and always open to collaboration!"
