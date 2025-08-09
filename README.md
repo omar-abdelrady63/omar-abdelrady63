@@ -10,7 +10,7 @@ I'm an intern passionate about learning and exploring modern web technologies. I
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** Node.js, Express.js, PHP *(Beginner)*, Laravel *(Beginner)*  
-- **Databases:** MongoDB, MySQL *(Beginner)*
+- **Databases:** MongoDB, MySQL
 
 ---
 
