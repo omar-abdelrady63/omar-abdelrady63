@@ -1,41 +1,15 @@
-# 👋 Hi, I'm Omar!
+# 💫 About Me:
+🔭 I’m currently working on some flask projects<br>🌱 I’m currently learning multiple backend languages & frameworks<br>⚡ Fun fact : I like to see the final project in a good way but iam not that good in designs
 
-## 👨‍💻 Web Designer & Developer
 
-I'm an intern passionate about learning and exploring modern web technologies. I have hands-on experience with various tools and frameworks and love tackling new challenges.
-
----
-
-### 🚀 Skills
-
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** Node.js, Express.js, PHP *(Beginner)*, Laravel *(Beginner)*  
-- **Databases:** MongoDB, MySQL
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Omar Aly&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Omar Aly&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar Aly&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Omar Aly&icon=1&color=0)](https://visitcount.itsvg.in)
 
-### 🌱 Currently Learning
-
-I'm currently deepening my backend development skills, with the goal of becoming a full-stack web developer.
-
----
-
-### 📫 Connect with Me
-
-- [LinkedIn – omar-aly](https://www.linkedin.com/in/omar-aly-7271252b1/)
-
----
-
-### 📂 Featured Projects
-
-Take a look at some of the projects I’ve been working on:
-
-- [CRUD with Node.js](https://github.com/omar-abdelrady63/CRUD-NODEJS-with-authentication-and-authorization) – *A REST API built with Node.js, Express, and MongoDB featuring Authentication, CRUD operations, and File Uploads.*
-- [Movie Theater](https://github.com/omar-abdelrady63/Movie-Theater/tree/main/Movei%20Project) – *A simple React application built with Vite and React Router, using the TMDB API to display and search movies.
-Users can browse popular movies, search by title, and save favorites (stored in localStorage).*
-- [CRUD with PHP&laravel](https://github.com/omar-abdelrady63/CRUD-Operations-using-PHP-laravel) – *A beginner-level Laravel 12 project implementing a simple CRUD system (Create, Read, Update, Delete) for blog posts. The application uses Blade templates for the frontend and is styled with Bootstrap 5.*
-
----
-
-> _“I’m always learning and enjoy collaborating with others. Let’s build something amazing together!”_
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
