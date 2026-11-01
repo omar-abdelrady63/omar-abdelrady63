@@ -196,31 +196,59 @@ A lightweight bookstore application featuring user authentication, book catalog,
 ---
 
 
+
 ## 04 / GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/omar-abdelrady63">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-abdelrady63&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=8B5CF6&text_color=E6EDF3&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omar-abdelrady63&theme=github_dark"
+    width="49%"
+    alt="GitHub Statistics"
+  />
 </a>
 
 <a href="https://github.com/omar-abdelrady63">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelrady63&layout=donut&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3&langs_count=8" height="165" alt="Most Used Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar-abdelrady63&theme=github_dark"
+    width="49%"
+    alt="Most Used Languages"
+  />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/omar-abdelrady63">
-  <img src="https://streak-stats.demolab.com?user=omar-abdelrady63&theme=transparent&hide_border=true&ring=00F5D4&fire=8B5CF6&currStreakLabel=00F5D4&sideLabels=E6EDF3&dates=8B949E" width="90%" alt="GitHub Streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar-abdelrady63&theme=github_dark"
+    width="49%"
+    alt="Most Commit Languages"
+  />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/omar-abdelrady63">
-  <img src="https://ghchart.rshah.org/00F5D4/omar-abdelrady63" width="100%" alt="GitHub Contribution Graph" />
+  <img
+    src="https://streak-stats.demolab.com?user=omar-abdelrady63&theme=transparent&hide_border=true&ring=00F5D4&fire=8B5CF6&currStreakLabel=00F5D4&sideLabels=E6EDF3&dates=8B949E"
+    width="90%"
+    alt="GitHub Streak"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/omar-abdelrady63">
+  <img
+    src="https://ghchart.rshah.org/00F5D4/omar-abdelrady63"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </a>
 
 </div>
+
 
 
 ---
