@@ -1,111 +1,153 @@
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:172554,100:164E63&text=OMAR%20ALY&fontSize=55&fontColor=E6EDF3&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Backend%20Enthusiast&descSize=16&descAlignY=62&animation=fadeIn" /><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+APIs+%26+Real-Time+Applications;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
+</a><br/><a href="https://github.com/omar-abdelrady63">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/omar-aly-7271252b1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:29abdelrady29@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><br/><br/>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=omar-abdelrady63&style=flat-square&color=00BFA6&label=PROFILE+VIEWS" /></div>---
 
+"01 / ABOUT ME"
 
-  
-  <br />
-  <br />
+const omar = {
+    name: "Omar Aly Abdelrady",
+    education: "Computer Science @ SCU",
+    role: "Full-Stack Developer",
+    specialization: "Backend Development",
 
-  <h1 align="center">Omar Aly Abd-Elrady</h1>
-  <h3 align="center">Software Engineer | Full Stack Developer</h3>
+    interests: [
+        "RESTful APIs",
+        "Backend Architecture",
+        "Real-Time Applications",
+        "Full-Stack Development"
+    ],
 
-  
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B;Iam+Omar+Aly+Abd-Elrady;A+CS+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+a+Mern+Stack+Developer;I+Can+also+do+Laravel+BTW:)" alt="Typing SVG" />
-    </a>
-  </p>
-  
+    currentlyExploring: [
+        "React",
+        "Next.js",
+        "Scalable Applications"
+    ],
 
-  <p align="center">
-    Computer Science Student at SCU. I engineer high-performance web applications. <br />
-    Passionate about solving complex problems and learning new technologies.
-  </p>
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=omar-abdelrady63&label=Profile%20Views&color=0e75b6&style=flat)
+    outsideCoding: "Chess Coaching",
 
-  <div align="center">
-    <a href="mailto:abdelradyomar7@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/omar-aly-7271252b1/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/omar-abdelrady63">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://wa.me/201212914537">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-  </div>
-</div>
+    philosophy: "Build things that solve real problems."
+};
 
-<br />
+I’m a Computer Science student and Full-Stack Developer interested in building practical web applications, robust backend systems, and interactive digital experiences.
 
-## 🚀 About Me
+I enjoy turning ideas into working products, designing APIs, working with databases, and exploring how different technologies come together to build complete applications.
 
-I am a **Software Engineer** specializing in **Full Stack Development**. Currently studying Computer Science at **Suez Canal University**, I have a strong foundation in both frontend and backend technologies. I love building scalable applications and exploring new tech stacks.
+I also work as a chess coach — something that constantly challenges my strategic thinking and problem-solving skills.
 
-- 🔭 I’m currently working on **My Graduation Project** 
-- 🌱 I’m currently Mastering **Next.js**
-- 💬 Ask me about **MERN Stack, Laravel**
-- 📫 How to reach me: **[EMAIL_ADDRESS](29abdelrady29@gmail.com)**
+---
 
-<br />
+"02 / TECH STACK"
 
-## 🛠️ Tech Stack
+<div align="center">LANGUAGES
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css&theme=dark" /><br/><br/>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+FRONTEND
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" /><br/><br/>
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+BACKEND & FRAMEWORKS
 
-<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask&theme=dark" /><br/><br/>
 
-## 💻 Projects
+DATABASES
 
-### ♟️ [CyChess](https://cychess.vercel.app/)
-A modern, real-time chess platform built for playing with friends. Features include creating games, challenging opponents, and real-time synchronization using Socket.io.
-- **Stack**: React, Node.js, MongoDB, Socket.io, Docker
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark" /><br/><br/>
 
-### 🎬 [Movie Theater](https://movie-theater-9esm-nine.vercel.app/)
-A sleek movie discovery app using the TMDB API.
-- **Stack**: React, Vite, TMDB API
+TOOLS & WORKFLOW
 
-### 🔐 [Auth REST API](https://github.com/omar-abdelrady63/CRUD-NODEJS-with-authentication-and-authorization)
-Robust Node.js API with JWT authentication, file uploads, and CRUD operations.
-- **Stack**: Node.js, Express, MongoDB, JWT
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" /></div>---
 
-### ☕ [Bean Scene](https://omar-abdelrady63.github.io/Bean-Scene/)
-A beautiful landing page for a coffee shop with modern animations.
-- **Stack**: HTML, CSS, Bootstrap
+"03 / SELECTED PROJECTS"
 
-<br />
+<div align="center"><a href="https://github.com/omar-abdelrady63/RKGN">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=omar-abdelrady63&repo=RKGN&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C9D1D9&icon_color=8B5CF6" />
+</a>
+<a href="https://github.com/omar-abdelrady63/cychess">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=omar-abdelrady63&repo=cychess&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C9D1D9&icon_color=8B5CF6" />
+</a></div>◈ RKGN — AI Architecture Generator
 
-## 📫 Contact
+An AI-enhanced platform that transforms project ideas into structured, customizable application architectures and downloadable code templates.
 
-- **Email**: [29abdelrady29@gmail.com](mailto: 29abdelrady29@gmail.com)
-- **LinkedIn**: [Omar Aly](https://www.linkedin.com/in/omar-aly-7271252b1/)
-- **WhatsApp**: [Reach out to me](https://wa.me/201023457731)
+"React 19" "Node.js 22" "Express" "MongoDB" "Gemini AI"
+
+"Repository →" (https://github.com/omar-abdelrady63/RKGN)
+
+◈ CyChess — Real-Time Chess Platform
+
+A multiplayer chess platform featuring live matches, friend systems, tournaments, game history, and integrated Stockfish analysis.
+
+"React" "Node.js" "MongoDB" "Socket.io" "Stockfish" "Docker"
+
+"Repository →" (https://github.com/omar-abdelrady63/cychess) · "Live Demo →" (https://cychess.vercel.app)
+
+◈ Authentication & Authorization REST API
+
+A backend API featuring JWT authentication, role-based access control, CRUD operations, image uploads, validation, and centralized error handling.
+
+"Node.js" "Express" "MongoDB" "JWT" "Joi" "ImageKit"
+
+"Repository →" (https://github.com/omar-abdelrady63/CRUD-NODEJS-with-authentication-and-authorization)
+
+◈ Movie Theater
+
+A movie discovery application that integrates TMDB API, supports movie search, and allows users to manage their favorite movies.
+
+"React" "Vite" "React Router" "TMDB API"
+
+"Repository →" (https://github.com/omar-abdelrady63/Movie-Theater)
+
+◈ Book Store
+
+A lightweight bookstore web application with authentication, book catalog, shopping cart, and database-backed functionality.
+
+"Python" "Flask" "SQLite" "SQLAlchemy"
+
+"Repository →" (https://github.com/omar-abdelrady63/Book-Store)
+
+<details>
+<summary><b>More Projects & Experiments</b></summary>- "Laravel CRUD" (https://github.com/omar-abdelrady63/CRUD-Operations-using-PHP-laravel) — Laravel 12, MySQL and Bootstrap.
+- "Bean Scene" (https://github.com/omar-abdelrady63/Bean-Scene) — Coffee shop landing page.
+- "EDUKATE" (https://github.com/omar-abdelrady63/EDUKATE) — Educational website.
+- "Feane" (https://github.com/omar-abdelrady63/Feane) — Restaurant website.
+- "Sliders" (https://github.com/omar-abdelrady63/Sliders) — Frontend project.
+
+</details>---
+
+"04 / GITHUB ANALYTICS"
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=omar-abdelrady63&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelrady63&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=8" /><br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=omar-abdelrady63&theme=transparent&hide_border=true&ring=00F5D4&fire=8B5CF6&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=8B949E" /></div>---
+
+"05 / CONTRIBUTION ACTIVITY"
+
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omar-abdelrady63&bg_color=0D1117&color=C9D1D9&line=00F5D4&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Graph" /></div>---
+
+"06 / BEYOND THE CODE"
+
+<div align="center"><img src="https://img.shields.io/badge/CHESS-Strategic_Thinking-8B5CF6?style=for-the-badge&logo=lichess&logoColor=white" /></div>Chess is more than a hobby for me. As a chess coach, I teach students how to analyze positions, think ahead, recognize patterns, and make better decisions.
+
+I believe the same mindset applies to software engineering.
+
+---
+
+<div align="center">"Think. Build. Improve. Repeat."
+
+<a href="https://github.com/omar-abdelrady63?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-00F5D4?style=for-the-badge&logo=github&logoColor=0D1117" />
+</a><br/><br/>
+
+<sub>Designed & built by Omar Aly Abdelrady</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,100:0D1117&height=100&section=footer" /></div>
