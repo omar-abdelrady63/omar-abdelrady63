@@ -46,10 +46,10 @@
 
 I am a **Software Engineer** specializing in **Full Stack Development**. Currently studying Computer Science at **Suez Canal University**, I have a strong foundation in both frontend and backend technologies. I love building scalable applications and exploring new tech stacks.
 
-- 🔭 I’m currently working on **A project That will Help express.js devs Alot :)** 
-- 🌱 I’m currently learning **Advanced Backend Architecture**
+- 🔭 I’m currently working on **My Graduation Project** 
+- 🌱 I’m currently Mastering **Next.js**
 - 💬 Ask me about **MERN Stack, Laravel**
-- 📫 How to reach me: **[EMAIL_ADDRESS](abdelradyomar7@gmail.com)**
+- 📫 How to reach me: **[EMAIL_ADDRESS](29abdelrady29@gmail.com)**
 
 <br />
 
@@ -106,6 +106,6 @@ A beautiful landing page for a coffee shop with modern animations.
 
 ## 📫 Contact
 
-- **Email**: [abdelradyomar7@gmail.com](mailto:abdelradyomar7@gmail.com)
+- **Email**: [29abdelrady29@gmail.com](mailto: 29abdelrady29@gmail.com)
 - **LinkedIn**: [Omar Aly](https://www.linkedin.com/in/omar-aly-7271252b1/)
 - **WhatsApp**: [Reach out to me](https://wa.me/201023457731)
