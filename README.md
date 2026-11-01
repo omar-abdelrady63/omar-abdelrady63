@@ -108,4 +108,4 @@ A beautiful landing page for a coffee shop with modern animations.
 
 - **Email**: [abdelradyomar7@gmail.com](mailto:abdelradyomar7@gmail.com)
 - **LinkedIn**: [Omar Aly](https://www.linkedin.com/in/omar-aly-7271252b1/)
-- **WhatsApp**: [Reach out to me](https://wa.me/201212914537)
+- **WhatsApp**: [Reach out to me](https://wa.me/201023457731)
