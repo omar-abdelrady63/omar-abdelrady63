@@ -195,29 +195,33 @@ A lightweight bookstore application featuring user authentication, book catalog,
 
 ---
 
+
 ## 04 / GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/omar-abdelrady63">
-  <img src="https://img.shields.io/github/followers/omar-abdelrady63?style=for-the-badge&logo=github&label=Followers&color=0D9488" alt="GitHub Followers" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-abdelrady63&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=8B5CF6&text_color=E6EDF3&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
 </a>
 
-<a href="https://github.com/omar-abdelrady63?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-</a>
-
-<a href="https://github.com/omar-abdelrady63?tab=stars">
-  <img src="https://img.shields.io/github/stars/omar-abdelrady63?style=for-the-badge&logo=github&label=Stars&color=7C3AED" alt="GitHub Stars" />
+<a href="https://github.com/omar-abdelrady63">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelrady63&layout=donut&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3&langs_count=8" height="165" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/omar-abdelrady63">
-  <img src="https://ghchart.rshah.org/00F5D4/omar-abdelrady63" alt="Omar's GitHub Contribution Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=omar-abdelrady63&theme=transparent&hide_border=true&ring=00F5D4&fire=8B5CF6&currStreakLabel=00F5D4&sideLabels=E6EDF3&dates=8B949E" width="90%" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/omar-abdelrady63">
+  <img src="https://ghchart.rshah.org/00F5D4/omar-abdelrady63" width="100%" alt="GitHub Contribution Graph" />
 </a>
 
 </div>
+
 
 ---
 
